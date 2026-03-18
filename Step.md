@@ -24,3 +24,8 @@ server.js
 [✔] Code works
 [✔] API connected
 [❌] Billing not enabled
+
+## To solve openapi key problem (hugging face apikey used)
+
+npm install axios
+`commented openai code to use hugging face`
